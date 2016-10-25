@@ -9,9 +9,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 public class MainActivity extends ListActivity {
-
     private TextView selection;
-
     private static final String[] items = {"En", "un", "lugar", "de",
             "la", "Mancha", "de", "cuyo", "nombre", "no", "quiero",
             "acordarme", "no", "ha", "mucho", "tiempo", "que",
